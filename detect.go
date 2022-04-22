@@ -45,7 +45,7 @@ begin
 end
 `
 
-func detect() {
+func Detect() {
 	user := &User{
 		Name:  "Calo",
 		Score: 0,

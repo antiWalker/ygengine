@@ -27,6 +27,9 @@ func (u *User) Print(s string) {
 func (u *User) Say() {
 	fmt.Println("hello world")
 }
+func Dodo() {
+	fmt.Println(234)
+}
 
 //定义规则
 const rule1 = `

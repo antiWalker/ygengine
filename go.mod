@@ -1,4 +1,4 @@
-module ygengine
+module doit
 
 go 1.13
 

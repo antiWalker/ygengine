@@ -1,4 +1,4 @@
-module doit
+module github.com/antiWalker/ygengine
 
 go 1.13
 
